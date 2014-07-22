@@ -62,6 +62,7 @@ pygments_style = 'sphinx'
 intersphinx_mapping = {
     'python': ('http://python.readthedocs.org/en/v2.7.2/', None),
     'django': ('http://django.readthedocs.org/en/latest/', None),
+    'mock': ('http://mock.readthedocs.org/en/latest/', None)
     #'celery': ('http://celery.readthedocs.org/en/latest/', None),
 }
 
@@ -79,7 +80,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
