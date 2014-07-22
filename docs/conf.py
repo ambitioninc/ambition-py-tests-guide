@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'toc'
 
 # General information about the project.
-project = u'tests_guide'
+project = u'Ambition Python Testing Guide'
 copyright = u'2014, Ambition Inc.'
 
 # The short X.Y version.
