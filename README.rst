@@ -1,23 +1,10 @@
 .. image:: https://travis-ci.org/ambitioninc/ambition-py-tests-guide.png
    :target: https://travis-ci.org/ambitioninc/ambition-py-tests-guide
 
-
 ambition-py-tests-guide
-===============
-
-
-I have failed to provide a good README.rst in my project, and you should shun
-me if I do any pull requests
-
-Installation
-------------
-To install the latest release, type::
-
-    pip install ambition-py-tests-guide
-
-To install the latest code directly from source, type::
-
-    pip install git+git://github.com/ambitioninc/ambition-py-tests-guide.git
+=======================
+This guide is for developers who are new to testing, or want to contribute to an Ambition python project. It outlines
+how to write tests and common conventions used at Ambition.
 
 Documentation
 =============

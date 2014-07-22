@@ -1,3 +1,4 @@
 ambition-py-tests-guide Documentation
-=============================
-Please put a description here, followed by sections for configuration, basic usage, and code documentation.
+=====================================
+This guide is for developers who are new to testing, or want to contribute to an Ambition python project. It outlines
+how to write tests and common conventions used at Ambition.

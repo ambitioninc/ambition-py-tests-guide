@@ -5,7 +5,8 @@ Table of Contents
    :maxdepth: 2
 
    index
-   installation
-   ref/tests_guide
+   introduction
+   mock
+   coverage
    contributing
    release_notes
